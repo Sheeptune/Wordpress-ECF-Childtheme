@@ -6,3 +6,16 @@ Author:       Sheeptune
 Version:      1.0.0
 Text Domain:  twenty-nineteen-child
 */
+
+
+.site-header{
+    background-color: rgb(251, 255, 7);
+}
+
+.site-title{
+    font-style: italic; 
+}
+
+p.site-description{
+    display: none;
+}
