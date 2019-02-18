@@ -19,3 +19,9 @@ Text Domain:  twenty-nineteen-child
 p.site-description{
     display: none;
 }
+
+body{
+    background-image: url("https://ih1.redbubble.net/image.204984613.3907/flat,750x1000,075,t.u15.jpg");
+    background-repeat: repeat-y;
+}
+
